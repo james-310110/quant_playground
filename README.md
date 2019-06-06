@@ -38,7 +38,7 @@ It is recommended that you run this repository in a conda environment. If you do
 
 ## Docs and Docs Generation
 
-Please write [numpy style docstrings](https://numpydoc.readthedocs.io/en/latest/format.html) in your code. Refer to `utils.extract_sift_features` for example.
+Please write [numpy style docstrings](https://numpydoc.readthedocs.io/en/latest/format.html) in your code. Refer to `get_stats.py` for example.
 
 #### Linux or Mac OS
 
