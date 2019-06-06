@@ -5,7 +5,8 @@ This is a playground for trying out quant strategies with most of the common lib
 
 ## Environment
 
-It is recommended that you run this repository in a conda environment. If you do not have miniconda or Anaconda pre-installed, visit https://docs.conda.io/en/latest/miniconda.html for downloading conda and https://conda.io/projects/conda/en/latest/user-guide/install/index.html for installation instructions.
+It is recommended that you run this repository in a conda environment. If you do not have miniconda or Anaconda pre-installed, please [download](https://docs.conda.io/en/latest/miniconda.html) conda and follow the [instructions](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) for installation.
+
 
 #### Installation
 
