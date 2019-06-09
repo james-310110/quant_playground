@@ -53,14 +53,6 @@ Please write [numpy style docstrings](https://numpydoc.readthedocs.io/en/latest/
 
 ## Github helper scripts
 
-#### Merge `master` to local branch
-
-Make sure you are in your branch with `git checkout BRANCH`
-
-`sh github_helper/fast_forward.sh`
-
-#### Create pull request after commit and push
-
-Read this [guide](https://guides.github.com/activities/hello-world/) for github commands.
+#### Read this [guide](https://guides.github.com/activities/hello-world/) for github commands.
 
 
