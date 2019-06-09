@@ -61,12 +61,6 @@ Make sure you are in your branch with `git checkout BRANCH`
 
 #### Create pull request after commit and push
 
-With custom title and comment:
-
-`sh github_helper/pull_request.sh "TITLE" ["COMMENT"]`
-
-Without custom title and comment:
-
-`sh github_helper/pull_request.sh --no-edit`
+Read this [guide](https://guides.github.com/activities/hello-world/) for github commands.
 
 
